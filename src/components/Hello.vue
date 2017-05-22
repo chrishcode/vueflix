@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
+    <Hero></Hero>
     <Netflix></Netflix>
     <Netflix></Netflix>
     <Netflix></Netflix>
@@ -15,6 +15,7 @@
 
 <script>
 import Netflix from './Netflix'
+import Hero from './Hero'
 
 export default {
   name: 'hello',
@@ -24,7 +25,8 @@ export default {
     }
   },
   components: {
-    Netflix
+    Netflix,
+    Hero
   }
 }
 </script>

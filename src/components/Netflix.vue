@@ -170,7 +170,7 @@ h3 {
 }
 
 .video-card {
-  /*background-color: red;*/
+  background-color: #141414;
 }
 
 .video-card:hover {
