@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <Hero></Hero>
+    <!-- <Hero></Hero> -->
     <Netflix></Netflix>
     <Netflix></Netflix>
     <Netflix></Netflix>

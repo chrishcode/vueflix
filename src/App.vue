@@ -20,7 +20,7 @@ export default {
   margin-top: 0px;
 }
 body {
-  background-color: #141414;
+  background-color: #ffffff;
   margin: 0;
 }
 
